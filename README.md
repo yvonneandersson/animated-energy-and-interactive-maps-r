@@ -26,6 +26,11 @@ You will create an animated bar chart visualizing different sources of energy ov
 
 🧾 Output: A dynamic `.gif` visual showing change in energy use across categories (Fossil, Non-fossil, Renewables)
 
+## 📝 Results:
+
+![](https://i.imgur.com/K904yOK.gif)
+
+
 ---
 
 ## 🌍 Task 2 – Interactive Map of Europe (with Tooltip Information)
@@ -52,6 +57,9 @@ Using world map data from the `sf` package, you will create an interactive Europ
 - Code must include:
   - All used libraries (e.g., `sf`, `gganimate`, `ggplot2`, `dplyr`, `ggiraph`)
   - Reproducible paths so others can run your analysis
+ 
+![](https://i.imgur.com/B48x1DU.gif)
+
 
 ---
 
